@@ -1,4 +1,4 @@
 commentOwner,commentID,messageID,	messageOwner,commentContent,date
-georget,1,1,manosk,"I have already installed neo4j on all computers.","03/03/2021 18:10"
-manosk,2,1,manosk,"Fine, I hope everything goes well this semester.",03/03/2021 18:10"
-georget,3,3,georget,"Update, password for login to Neo4j has changed. Use 4321 to access the database","03/03/2021 18:10"
+georget,1,1,manosk,"I have already installed neo4j on all computers.",03/03/2021 18:10
+manosk,2,1,manosk,"Fine, I hope everything goes well this semester.",03/03/2021 18:10
+georget,3,3,georget,"Update, password for login to Neo4j has changed. Use 4321 to access the database",03/03/2021 18:10
